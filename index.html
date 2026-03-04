@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OATM/SOL3/2024/TNX — Operational Monitor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="console-header">
+    <div class="classification">CLASSIFIED — ORION ARM TERRITORIAL MANAGEMENT DIVISION</div>
+    <div class="header-main">
+      <h1>OATM/SOL3/2024/TNX — Torment Nexus Operational Monitor</h1>
+      <div class="header-meta">
+        <span class="status-badge">DEPLOYED ASSETS NOW AUTONOMOUS</span>
+        <span class="cycle-counter">Cycle: <span id="cycle-count">0.0.000</span></span>
+        <span class="risk-display">Detection Risk: <strong>LOW</strong> · Remediation Risk: <strong>LOW</strong></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="console-grid">
+    <aside class="panel panel-left" id="system-overview">
+      <h2 class="panel-title">System Overview</h2>
+      <div id="module-blocks"></div>
+      <div id="cross-module-lines"></div>
+      <h3 class="panel-subtitle">State Variables</h3>
+      <div id="state-gauges"></div>
+    </aside>
+
+    <section class="panel panel-center" id="detail-view">
+      <div class="detail-placeholder">
+        <p class="detail-hint">Select a module or component to inspect</p>
+      </div>
+    </section>
+
+    <aside class="panel panel-right" id="parameters">
+      <h2 class="panel-title">Parameters</h2>
+      <div id="sim-controls"></div>
+      <h3 class="panel-subtitle">Environment</h3>
+      <div id="param-sliders"></div>
+      <h3 class="panel-subtitle">Trait Distributions</h3>
+      <div id="trait-sliders"></div>
+      <h3 class="panel-subtitle">Platform Deployment</h3>
+      <div id="platform-toggles"></div>
+    </aside>
+  </main>
+
+  <footer class="console-footer">
+    <div class="outcomes-strip" id="outcomes"></div>
+    <div class="attribution">
+      System specification rendered in Dazzle DSL
+      · <a href="https://github.com/manwithacat/dazzle" target="_blank" rel="noopener">Framework documentation</a>
+      · <em>"If your system is too complex to specify, it's too complex to control."</em>
+    </div>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
