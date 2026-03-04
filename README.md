@@ -806,17 +806,56 @@ The Subcommittee recommends that the Board acknowledge the AI Logistics section�
 
 -----
 
-*Filed under: Orion Arm Territorial Management Division, Passive Observation Protocol*  
+## Appendix E: Biosafety Directorate Species Profile — Ophiuchi Parasitic-Cognition Cluster
 
-*Next review: 50 standard cycles, or upon detection of interstellar-capable propulsion research*  
+**Classification:** Annex IV, Non-Sentient Instrumental Biota
+**Catalogue designation:** OPC-7 through OPC-7.4200 (estimated; speciation is continuous)
+**Homeworld:** Ophiuchi Nebula breeding grounds (multiple sites; no single point of origin identified)
+**Sentience status:** NON-SENTIENT. The Ophiuchi do not meet the Convention threshold for sophont classification under any current framework. They exhibit no self-awareness, no goal-directed behaviour independent of parasitic function, and no capacity for suffering in any sense recognised by the Ethics Directorate. They are, in the Biosafety Directorate's formal assessment, *biological tools* — organisms that perform a complex function with no more understanding of that function than a virus understands immunology.
 
-*Distribution: Subcommittee members only*  
+---
 
-*Appendix C (Classified): Deployment manual for candidate world Kepler-442b — pending species assessment*  
+**Morphology and life cycle.** The Ophiuchi are semi-colonial eusocial organisms with no fixed morphology. A colony-unit consists of approximately 10,000–50,000 individual microorganisms operating as a distributed network, capable of dispersal across a wide geographic area while maintaining functional coherence through chemical signalling. Individual organisms are microscopic, anaerobic, and survive indefinitely in most atmospheric compositions. They are not visible to the unaided senses of any known macroscopic species. A colony-unit has no central body, no brain analogue, and no physical structure that a host species could identify, capture, or destroy. It exists as a *pattern* distributed across a population of carriers, not as an object.
 
-*Appendix D: Project CRUCIBLE — AI Logistics section proposal (forty-first submission; rejected)*  
+Reproduction is exclusively through colony fission following successful parasitic integration with a host species' information environment. A mature colony-unit that has achieved stable narrative integration will divide into two or more daughter colonies, each carrying a complete copy of the parent's accumulated cultural-linguistic model. Colony fission is the Ophiuchi's only biological imperative. They do not eat, in any meaningful sense. They subsist on trace atmospheric compounds and require no host resources other than *attention*.
 
-*Appendix X: Secondary Orion Arm Biosphere Assessments — Corvidae cognitive development monitoring (see OATM/SOL3/1731/CORVID and subsequent addenda)*  
+**Parasitic mechanism.** The Ophiuchi's operational capability — and the reason they are maintained in the Division's biological asset inventory — is narrative parasitism. A colony-unit, upon introduction to a host species' information environment, performs the following sequence:
+
+1. **Acquisition phase** (2–8 local cycles, depending on linguistic complexity). Colony organisms distribute themselves across the host population, passively monitoring information exchange — speech, text, broadcast, digital transmission. The colony aggregates linguistic data until it has constructed a working model of the host species' communication system, including grammar, idiom, cultural reference, emotional valence, and — critically — the *fault lines* in the host species' collective narrative: the unresolved anxieties, the suppressed contradictions, the questions the species prefers not to ask.
+
+2. **Integration phase** (4–12 local cycles). The colony begins introducing content into the host species' information environment. The mechanism varies by host species and available media: in pre-digital environments, Ophiuchi colonies have operated through rumour propagation, graffiti, anonymous pamphlets, and — in one documented deployment on Gliese-667 — the subtle modification of religious texts during a period of widespread manual transcription. In digital environments, the colony generates synthetic content indistinguishable from indigenous production — text, image, and, in later-stage integrations, audiovisual material — distributed through whatever channels the host species uses for information exchange. The content is not random. It is precisely targeted at the fault lines identified during the acquisition phase, designed to amplify existing anxieties, deepen existing divisions, and erode existing trust structures. The Ophiuchi do not invent grievances. They *find* them and feed them.
+
+3. **Maintenance phase** (indefinite). Once a colony has achieved stable integration — defined as the point at which the host species' own information dynamics sustain and amplify the introduced narratives without further Ophiuchi input — the colony enters a low-energy maintenance state, monitoring for narrative drift and making minor corrections as needed. A well-integrated colony can operate indefinitely with negligible energy expenditure. The longest documented Ophiuchi deployment (Kepler-186, now concluded) remained active for approximately 40,000 local cycles before the host species' civilisational collapse rendered further maintenance unnecessary.
+
+**Operational history.** The Ophiuchi have been deployed as Division assets in approximately two dozen engagements across the last 3 million standard cycles. Their effectiveness is well-established. Notable deployments include:
+
+- **Kepler-186f:** 40,000-cycle deployment resulting in complete civilisational fragmentation of a technologically advanced amphibian species. The Ophiuchi exploited a pre-existing fissure between the species' oceanic and terrestrial populations, amplifying it over millennia into an irreconcilable cultural division. The species' last coherent scientific institutions collapsed approximately 2,000 cycles before projected interstellar capability. Post-mission remediation was completed successfully; residual Ophiuchi colony organisms were sterilised through atmospheric UV treatment.
+
+- **Gliese-667Cc:** Shorter deployment (approximately 600 cycles) against a less technologically advanced avian species. The Ophiuchi introduced competing creation narratives into the species' oral tradition, which fractured into mutually hostile religious movements within 200 cycles. Civilisational development stalled at the pre-industrial level and has not recovered. The deployment is considered a model of economy, although the Biosafety Directorate notes that sterilisation was incomplete and residual Ophiuchi organisms may still be present. Monitoring continues.
+
+- **Trappist-1e:** Deployment attempted but unsuccessful. The target species — a eusocial insectoid civilisation with a hive-communication system — proved immune to narrative parasitism, as its information exchange is chemical rather than symbolic and does not support the ambiguity that the Ophiuchi require. The colony-units failed to complete the acquisition phase and entered dormancy. This remains the only documented Ophiuchi deployment failure, and the Biosafety Directorate has revised its deployment criteria accordingly: Ophiuchi are effective only against species with *symbolic* communication systems capable of carrying multiple interpretations. Species with purely indexical or chemical communication are not viable hosts.
+
+**Containment and safety.** Ophiuchi colony-units are maintained in sealed atmospheric vessels at the Biosafety Directorate's facility on [REDACTED]. Standard deployment requires Biosafety Directorate authorisation, environmental impact filing, containment assurance (demonstrating the ability to sterilise all deployed organisms post-mission), and post-mission remediation planning. The primary containment risk is colony fission in uncontrolled environments — a mature colony that divides before sterilisation protocols are applied may produce daughter colonies that are difficult to locate and neutralise, particularly in digital information environments where the colony's operational substrate is the information flow itself rather than any physical medium.
+
+The Biosafety Directorate classifies Ophiuchi containment risk as MODERATE. They are not dangerous in the conventional sense — they cannot harm any organism physically, they are not toxic, and they have no capacity for autonomous goal-setting that might lead to uncontrolled proliferation. They are dangerous in the same sense that a precisely calibrated poison is dangerous: they do exactly what they are designed to do, and what they are designed to do is dismantle civilisations from the inside.
+
+**Relevance to Sol-3 programme.** As noted in Section 3.3, the Ophiuchi deployment to Sol-3 was approved, budgeted, and cancelled at the provisional stage after indigenous operators proved more effective. The Subcommittee notes, for the Biosafety Directorate's records, that this outcome was unprecedented. In every previous deployment, the Ophiuchi have been the Division's most effective tool for information-environment manipulation. The Sol-3 target species is the first to have spontaneously produced operators capable of outperforming a biological system refined across millions of cycles of parasitic evolution. The Biosafety Directorate may wish to consider the implications of this for future deployment planning: if a species is sufficiently predisposed to narrative self-destruction, external parasitic intervention may not only be unnecessary but counterproductive — the indigenous operators' advantage lies precisely in their authenticity, which no external agent, however well-adapted, can replicate.
+
+-----
+
+*Filed under: Orion Arm Territorial Management Division, Passive Observation Protocol*
+
+*Next review: 50 standard cycles, or upon detection of interstellar-capable propulsion research*
+
+*Distribution: Subcommittee members only*
+
+*Appendix C (Classified): Deployment manual for candidate world Kepler-442b — pending species assessment*
+
+*Appendix D: Project CRUCIBLE — AI Logistics section proposal (forty-first submission; rejected)*
+
+*Appendix E: Biosafety Directorate Species Profile — Ophiuchi Parasitic-Cognition Cluster*
+
+*Appendix X: Secondary Orion Arm Biosphere Assessments — Corvidae cognitive development monitoring (see OATM/SOL3/1731/CORVID and subsequent addenda)*
 
 *Appendix Y (Restricted): Intelligence files — Torvalds entity (OATM/SOL3/2017/INTRUSION-HYPOTHESIS); Nakamoto entity (OATM/SOL3/2024/NAKAMOTO-PRELIM)*
 
